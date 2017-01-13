@@ -1,5 +1,5 @@
 {
-	"port": 8080,
-	"bodyLimit": "100kb",
+	"port": 15954,
+	"bodyLimit": "10000kb",
 	"corsHeaders": ["Link"]
 }
